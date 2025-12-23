@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Humanoid Industrial Security & Standards Initiative (HISSI): A Policy Framework for Secure Robotics Supply Chains"
+message: "If you use this repository, please cite it using the information below."
+type: article
+authors:
+  - family-names: George
+    given-names: Collin B.
+    orcid: "https://orcid.org/0009-0007-8162-6839"
+    affiliation: "University of Washington"
+version: "1.0"
+date-released: "2025-10-01"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/collingeorge/HISSI-Policy-Concept"
+abstract: >
+  Educational policy concept framework for securing humanoid robotics supply chains
+  in defense and critical infrastructure applications. Proposes four-pillar approach:
+  trusted manufacturing, open architecture standards (MOSA-H), testing/certification
+  (HTEC), and economic incentives. Addresses supply chain vulnerabilities from
+  concentrated global manufacturing and proposes CHIPS Act-style domestic capacity
+  building. Pre-medical educational project demonstrating policy analysis and
+  systems security thinking.
+keywords:
+  - supply chain security
+  - robotics
+  - humanoid systems
+  - defense policy
+  - national security
+  - critical infrastructure
+  - manufacturing security
+  - technology policy
+  - CHIPS Act
+  - defense acquisition
+  - cybersecurity
+  - pre-medical research
